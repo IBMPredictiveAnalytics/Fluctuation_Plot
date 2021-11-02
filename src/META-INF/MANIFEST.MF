@@ -1,0 +1,11 @@
+Name: Fluctuation Plot
+Dialog-Specs: Fluctuation_Chart.cfe
+Misc-Files: LICENSE
+Summary: Plot of two categorical variables.
+Description: It produces a fluctuation plot, which is a nice way to look at a pair of categorical variables. 
+Author: Andrew Wheeler and Jon Peck
+Version: 1.0.0
+Product-Version: 24
+Date: 3/11/2021
+Categories: Fluctuation
+Translation-Catalogues: lang
