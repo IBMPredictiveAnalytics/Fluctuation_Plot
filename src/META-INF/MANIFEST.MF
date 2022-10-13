@@ -1,4 +1,5 @@
 Name: Fluctuation Plot
+Display-Name: Fluctuation Plot
 Dialog-Specs: Fluctuation_Chart.cfe
 Misc-Files: LICENSE
 Summary: Plot of two categorical variables.
